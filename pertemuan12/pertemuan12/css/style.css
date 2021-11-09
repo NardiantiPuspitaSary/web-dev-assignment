@@ -1,0 +1,18 @@
+h1, h2, p, td, body, a, span {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+    
+}
+table{
+    color: hsl(317, 26%, 95%);
+    width: 800px;
+    color:rgb(49, 33, 40);
+    margin: 20px auto;
+    padding: 15px;
+}
+
+body{
+    margin: auto;
+    margin-top: 20px;
+    background-color: bisque;
+    }
